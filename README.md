@@ -6,7 +6,8 @@ This project simulates a ball bouncing inside a rotating octagon under the influ
 Preview
 
 	A snapshot of the bouncing ball inside the rotating octagon.
-    ![Simulation Screenshot](screenshot.png)
+
+![Simulation Screenshot](screenshot.png)
 
 Features
 
